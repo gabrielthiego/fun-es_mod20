@@ -8,4 +8,4 @@ function somarMultiplos() {
     return soma;
 }
 
-console.log(somarMultiplos());
+module.exports = { somarMultiplos };

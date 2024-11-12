@@ -7,4 +7,4 @@ function calcularMDC(a, b) {
     return a;
 }
 
-console.log(calcularMDC(48, 18));
+module.exports = { calcularMDC };

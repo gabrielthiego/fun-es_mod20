@@ -1,0 +1,15 @@
+{
+  "name": "mod-20",
+  "version": "1.0.0",
+  "description": "Exercícios de testes com Jest - módulo 20",
+  "main": "exer1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
