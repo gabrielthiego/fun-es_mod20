@@ -15,4 +15,4 @@ function encontrarIndices(numeros) {
 let numeros = [10, 5, 20, 8, 3];
 let indices = encontrarIndices(numeros);
 console.log(indices[0]);
-console.log(indices[1]);
+console.log(indices[1]); 

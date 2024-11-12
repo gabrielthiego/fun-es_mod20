@@ -8,4 +8,4 @@ function somarMultiplos() {
     return soma;
 }
 
-console.log(somarMultiplos());
+console.log(somarMultiplos()); 
